@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at **reputed software company**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👯 I’m looking to collaborate on **Front end **
 
